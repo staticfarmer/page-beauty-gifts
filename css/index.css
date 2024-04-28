@@ -29,3 +29,13 @@ li img {
 }
 
 
+.container {
+            width: 600px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-around;
+        }
+        .container img{
+            width: 23%;
+            margin-bottom: 0px;
+        }
