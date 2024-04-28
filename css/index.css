@@ -8,8 +8,10 @@ body{
 div{
     width: 100%;
     text-align: center;
+    margin: 20px;
 }
 div a {
+    font-size: 20px;
     background: hotpink;
 }
 
@@ -19,6 +21,7 @@ ul {
 
 li {
     list-style: none;
+    border: 5px solid #000;
 }
 
 li img {
